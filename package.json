@@ -4,7 +4,7 @@
   "description": "Returns a port number for your dev server based on file path",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "keywords": [
     "random",
@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/port-number"
+  },
+  "devDependencies": {
+    "tap": "^2.1.1"
   }
 }
