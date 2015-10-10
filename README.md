@@ -1,4 +1,4 @@
-# port-number
+# port-number [![Build Status](https://travis-ci.org/anvaka/port-number.svg)](https://travis-ci.org/anvaka/port-number)
 
 Returns a port number for your dev server based on file path. Useful when you
 need to start multiple dev servers, but don't want them to have truly random
