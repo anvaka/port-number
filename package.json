@@ -1,0 +1,22 @@
+{
+  "name": "port-number",
+  "version": "1.0.0",
+  "description": "Returns a port number for your dev server based on file path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "port",
+    "number",
+    "dev",
+    "server"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/port-number"
+  }
+}
